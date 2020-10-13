@@ -1,0 +1,25 @@
+/* Zibrinyiné Luca, 2020-10-06 */
+#container {
+    background-color:magenta;
+    color: white;
+    margin: 2% 5%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+form fieldset label {
+    width: 100px;
+    display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+    margin-bottom: 2px;
+}
+
+#szerzo {
+    text-align: center;
+}
