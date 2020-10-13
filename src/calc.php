@@ -3,8 +3,7 @@
 
 $diameter = $_GET['diameter'];
 
-$costs = round(pow($diameter/2, 2) * pi()*2500.0);
-
+$costs = round( pow($diameter/2, 2) * pi()*2500.0);
 
 echo file_get_contents('templates/head.tpl');
 

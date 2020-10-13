@@ -23,3 +23,13 @@ input {
 #szerzo {
     text-align: center;
 }
+
+#leiras {
+  text-align: justify;
+  width:60%;
+  margin:auto;
+  padding:5px;
+}
+h3 {
+  text-align: center;
+}

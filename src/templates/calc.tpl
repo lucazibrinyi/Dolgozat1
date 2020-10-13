@@ -1,3 +1,4 @@
 <!--Zibrinyiné Luca, 2020-10-06 -->
 
-<p>Füvesítés költsége: {{ eredmeny }}</p>
+
+<p>Füvesítés költsége: {{ eredmeny }} Ft</p>
